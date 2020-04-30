@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Visit Sumbar</string>
+    <string name="nama_wilayah">Nama Wilayah</string>
+    <string name="detail_wilayah">Detail Wilayah</string>
+    <string name="menuInflater"></string>
+    <string name="foto">Foto</string>
+    <string name="nama_saya">Ridho Darman</string>
+    <string name="email">ridhodarman@gmail.com</string>
+    <string name="ket">Aplikasi ini merupakan bagian dari "<i>Belajar Membuat Aplikasi Android untuk Pemula</i>" dari <i>dicoding</i></string>
+</resources>
